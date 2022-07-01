@@ -1,0 +1,33 @@
+#wrap {
+position: fixed;
+top:0;
+bottom:0;
+left:0;
+right:0;
+background-color:#F3BFF1;
+overflow:scroll;
+
+}
+#header {
+padding: 15px;
+font: italic bold 15px helvetica, sans-serif;
+color : #6f2da8;
+height: 90px;
+border-radius: 15px;
+text-align: center;
+
+}
+.w3-purple {
+border: 1px solid #ffffff;
+text-align: center;
+}
+
+#main{
+margin-left : 200px;	
+width : 800px;
+height : 600px;
+border-radius: 15px;
+text-align: center;
+padding-top:50px;
+padding-bottom:50px;
+}

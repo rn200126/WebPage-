@@ -1,0 +1,46 @@
+#wrap {
+position: fixed;
+top:0;
+bottom:0;
+left:0;
+right:0;
+background-color:#F3BFF1;
+
+}
+#header {
+padding: 15px;
+font: italic bold 15px helvetica, sans-serif;
+color : #6f2da8;
+height: 90px;
+border-radius: 15px;
+text-align: center;
+
+}
+.w3-purple {
+border: 1px solid #ffffff;
+text-align: center;
+}
+
+
+#main {
+padding-left:20px;
+padding-top: 60px;
+background:#A785A6 ;
+background-size: auto;
+
+}
+
+#text {
+text-align:center;
+color : #681165;
+background : Gainsboro;
+border : 5px solid black;
+width : 550px;
+border-radius: 15px;
+font: italic bold 15px helvetica, sans-serif;
+border: 2px solid;
+position:relative;
+top:-280px;
+left:720px;
+
+}
